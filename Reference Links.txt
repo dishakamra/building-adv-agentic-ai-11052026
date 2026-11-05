@@ -1,0 +1,17 @@
+Reference Links:
+--------------------------
+
+Machine Learning Tutorials:
+https://aws.amazon.com/sagemaker/ai/getting-started/?trk=646586d5-fde5-40ef-8e3b-58ab4bd675ec&sc_channel=ps
+
+AWS Workshop for Amazon SageMaker Canvas - https://catalog.workshops.aws/canvas-immersion-day/en-US/1-prerequisites
+
+https://github.com/aws-samples/amazon-sagemaker-automated-feature-transformation
+
+AWS Workshop for Amazon SageMaker AI - 
+https://catalog.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US/lab8-trainium-inferentia/usecasemapping/availabletasks
+
+Machine Learning Terminology and Process (MLU Bootcamp) - https://skillbuilder.aws/renderer/?module_id=UEUNJYM5B1%3A001.000.001&product_id=81KR24TKDC%3A001.000.000&registration_id=e32a0e15-b46f-531a-b42b-f25abad21756&referrer=https%3A%2F%2Fskillbuilder.aws%2Flearn%2FVRBYBYSW71%2Finstructor-enablement-domain-starter--mlu-bootcamp%2F81KR24TKDC%3FparentId%3DN2GBB4RRTZ&navigation=digital&parentId=N2GBB4RRTZ
+
+Machine Learning for Everybody – Full Course https://www.youtube.com/watch?v=i_LwzRVP7bg
+
